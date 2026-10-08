@@ -1,0 +1,6 @@
+{
+  "name": "Project Shield",
+  "description": "Secure reward-based platform with fraud protection, verified rewards, atomic withdrawals, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
